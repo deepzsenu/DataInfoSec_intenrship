@@ -1,5 +1,7 @@
 # DataInfoSec_intenrship
-## weak 1
+
+# weak 1
+
 Submitted :- Deepak Kumar Saxena
 DataInfosec
 Task 1 :-Netflix Data Analysis and Visualizing
@@ -31,3 +33,5 @@ Cast in the Shows
 Directors
 Categories
 ## thank you
+
+

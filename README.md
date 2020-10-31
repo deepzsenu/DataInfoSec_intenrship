@@ -2,14 +2,13 @@
 
 # weak 1
 
-Submitted :- Deepak Kumar Saxena
-DataInfosec
-Task 1 :-Netflix Data Analysis and Visualizing
+## Submitted :- Deepak Kumar Saxena
+## DataInfosec
+## Task 1 :-Netflix Data Analysis and Visualizing
 Hello everyone,
 I work on Netflix Movies and TV Shows data set. I use some methos to examine data set.
+#### As you all know, Netflix is a platform to watch quality content. There are so many movies, TV shows, documentaries etc.
 
-As you all know, Netflix is a platform to watch quality content. There are so many movies, TV shows, documentaries etc.
-Let's begin, it'll be fun!
 ### Import librairies¶
 ### Loading the data set and performing some basic operations
 Print the name of columns

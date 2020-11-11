@@ -1,6 +1,6 @@
 # DataInfoSec_intenrship
 
-# weak 1
+# week 1
 
 ## Submitted :- Deepak Kumar Saxena
 ## DataInfosec

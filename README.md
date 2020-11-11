@@ -31,6 +31,29 @@ Country
 Cast in the Shows
 Directors
 Categories
+
+# week 2 
+## Task 2 : To analys the best seller data by category
+### BY : DataInfoSec
+#### Hello everyone,
+#### I work on best seller by category data set. I use some methos to examine data set.
+
+### Imported required libraries and perform some basic statical operations
+For clean visualization,set matplotlib config
+
+### Data visualisation
+1. Plotting the number of Fiction and Non Fiction
+2. plotting the ratings
+3. distribution according to Authors(Top 30 Authors)
+4. Frequency of Fiction and Non Fiction books which were Sold in different years
+5. Frequency of Fiction books which were Sold in different years
+6. Top 10 genres of Fiction vs author
+7. Top 10 genres of Non Fiction vs author
+
+### Word cloud
+1. word cloud for names of the books
+2. word cloud for Author 
+
 ## thank you
 
 
